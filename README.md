@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @whitebull7
-- 👀 I’m interested in trading/coding
-- 🌱 I’m currently learning DSA
+-  Hi, I’m @whitebull7
+-  Aspiring Buisness Analyst
 - 📫 How to reach me on spriyanshu345@gmail.com
 
 <!---
